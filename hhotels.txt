@@ -1,0 +1,5 @@
+1.Name of the hotels.
+2.Name of the owner.
+3.Address of the hotel .
+4.Contact number of the hotel.
+5.Name of dishes of the hotel.
